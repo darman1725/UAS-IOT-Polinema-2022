@@ -20,7 +20,7 @@ UAS - Internet Of Things 2022
 
 | Topic | Tema |
 |--|--|
-| Project UAS | Analisis Data Pada Aplikasi Netflix |
+| Project UAS | Makeup Smart Box |
 
 ***(Kelompok UAS)***
 
